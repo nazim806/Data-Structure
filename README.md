@@ -14,3 +14,11 @@ Examples: Array. Linked List, Stacks and Queues
 
 Example: Graph and Trees.
 
+Arrays:
+
+Linked List:
+
+Queue:
+
+Stacks:
+
