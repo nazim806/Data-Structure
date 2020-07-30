@@ -35,6 +35,7 @@ Queues are arrays with two primary operations: unshift and pop. Unshift enqueues
 
 **Stacks:**
 
- Stack is just an array with two principled operations: push and pop. Push add elements to the top of the array, while pop removes them from the same location. Stack follows the "Last In, First Out" protocol (LIFO). Most important stack in JS is the call stack where we push in the scope of a function whenever we execute it.
+ Stack is just an array with two principled operations: push and pop. Push add elements to the top of the array, while pop removes them from the same location. Stack follows the "Last In, First Out" protocol (LIFO). Most important stack in JS is the call stack where we push in the scope of a function whenever we execute it. Pro of using a linked list: The stack grows according to the user’s requirements.
+Con of using a linked list: Extra memory required to store the pointers.
 
  
